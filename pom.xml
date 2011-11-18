@@ -14,6 +14,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<scm>
+		<developerConnection>scm:git|ssh://git@github.com/Jahroots/CND.git</developerConnection>
 		<connection>scm:git:ssh://git@github.com/Jahroots/CND.git</connection>
 		<url>git:ssh://git@github.com/Jahroots/CND.git</url>
 	</scm>

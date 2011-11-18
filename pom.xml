@@ -13,6 +13,10 @@
 		<slf4j.version>1.6.1</slf4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	<scm>
+		<connection>scm:git:ssh://git@github.com/Jahroots/CND.git</connection>
+		<url>git:ssh://git@github.com/Jahroots/CND.git</url>
+	</scm>
 	<repositories>
         <repository>
             <id>spring-maven-release</id>

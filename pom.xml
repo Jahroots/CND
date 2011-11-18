@@ -4,7 +4,7 @@
 	<groupId>com.cnd</groupId>
 	<artifactId>cnd</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1.0.BUILD-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>cnd</name>
 	<properties>
 		<roo.version>1.1.1.RELEASE</roo.version>
